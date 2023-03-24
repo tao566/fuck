@@ -2,8 +2,6 @@ package com.hjq.toast.demo;
 
 import android.app.Application;
 
-import com.hjq.toast.Toaster;
-
 /**
  *    author : Android 轮子哥
  *    github : https://github.com/getActivity/Toaster
